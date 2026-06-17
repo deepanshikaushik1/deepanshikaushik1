@@ -122,7 +122,7 @@ I'm a **Senior Backend Software Engineer** with ** 5 years of experience** archi
 
 ## 💼 Professional Summary
 
-Senior Backend Software Engineer with 4.7+ years of experience architecting high-performance, distributed microservices and storage-intensive applications on AWS. Proven expertise in designing low-latency, fault-tolerant systems using Java, Spring Boot, and Kafka. Specializes in optimizing AWS storage solutions (DynamoDB, EBS, S3, RDS), implementing data lifecycle policies, and reducing infrastructure costs.
+Senior Backend Software Engineer with 5 years of experience architecting high-performance, distributed microservices and storage-intensive applications on AWS. Proven expertise in designing low-latency, fault-tolerant systems using Java, Spring Boot, and Kafka. Specializes in optimizing AWS storage solutions (DynamoDB, EBS, S3, RDS), implementing data lifecycle policies, and reducing infrastructure costs.
 
 ---
 
