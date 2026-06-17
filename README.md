@@ -68,7 +68,7 @@ I'm a **Senior Backend Software Engineer** with ** 5 years of experience** archi
 
 > **Note:** Projects are currently in development. Check back soon!
 
-### 🔹 Fintech Transaction Engine (Coming Soon)
+### 🔹 Fintech Transaction Engine : LIVE NOW
 > **High-throughput distributed transaction ledger handling 1M+ daily transactions**
 
 - **Tech:** Java 17, Spring Boot, AWS DynamoDB, Redis, Kafka, Terraform, EKS
