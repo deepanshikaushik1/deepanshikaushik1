@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Backend Software Engineer** with **4.7+ years of experience** architecting high-performance, distributed microservices and storage-intensive applications on AWS. I specialize in building **low-latency, fault-tolerant systems** that scale to handle millions of transactions.
+I'm a **Senior Backend Software Engineer** with ** 5 years of experience** architecting high-performance, distributed microservices and storage-intensive applications on AWS. I specialize in building **low-latency, fault-tolerant systems** that scale to handle millions of transactions.
 
 - 🔭 Currently working on **cloud-native microservices** with Java & Spring Boot
 - 🌱 Exploring **Kotlin** and advanced **AWS Storage** solutions
